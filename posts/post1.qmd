@@ -1,0 +1,33 @@
+---
+title: "Make a website with Quarto"
+date: 2024-05-22
+categories: [How to]
+---
+
+### The following websites and tutorials are useful references to learn to make Quarto websites:
+
+-   To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{=html}
+<!-- -->
+```
+-   Get started with Quarto \| Mine Çetinkaya-Rundel
+
+    -   <https://www.youtube.com/watch?v=_f3latmOhew&t=980s>
+
+```{=html}
+<!-- -->
+```
+-   Joshua French *YouTube* channel:
+
+    -   [**Changing the color and style theme of a Quarto website**](https://www.youtube.com/watch?v=7UW4ms1JCdY&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&index=7)
+
+    -   [**Homepage Template for Quarto website**](https://www.youtube.com/watch?v=hceM0-RuPwo)
+
+-   Posit PBC
+
+    -   [**From Journalist to Coder: Creating a Web Publication with Quarto - posit::conf(2023)**](https://www.youtube.com/watch?v=ncDEqHxMWnE)
+
+-   Real Word Data Science Template
+
+    -   [**RWDS Tempate**](https://github.com/finnoh/RWDS_post_template)

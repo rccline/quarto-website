@@ -1,0 +1,47 @@
+---
+title: ""
+format: 
+  html: default
+editor: visual
+bibliography: references.bib
+---
+
+```{r}
+#| echo: false
+
+## Get started with Quarto | Mine Çetinkaya-Rundel  Start 16:12 
+
+## https://www.youtube.com/watch?v=_f3latmOhew&t=980s
+
+## from terminal type:  quarto publish  
+
+## https://www.youtube.com/watch?v=7aMQ2BaAp5E&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&index=5 
+
+## https://www.youtube.com/watch?v=ncDEqHxMWnE
+
+```
+
+# Entdecken Sie mit mir die Freuden und Herausforderungen des Deutschlernens.
+
+## Einen kurzen Überblick darüber was ich und die Besucher auf meiner Website erwartet.
+
+::: {#fig-dss2023 layout-ncol="2"}
+![Grundkurs im Ingeborg Bachmann-Klassenraum](images/dss-jun5-jul5-2023.png)
+
+![Ausflug: Zeichenkurs mit Dr. Peter Pabish](images/field-trip.jpg)
+
+Aktivitäten der Sommerschule
+:::
+
+Ich lernte Deutschland zuerst als Soldat von 1964-1967 kennen. In diesen Jahren lernte ich nur ein paar Sätze Deutsch. Mein ernsthaftes Interesse an der deutschen Sprache begann erst, als ich an der Universität Deutsch belegte. Der Weg zur Erlangung der Deutschkenntnisse war und ist für mich eine Herausforderung. Es gibt keinen schnellen Zugang zur Sprachbeherrschung. Es braucht sowohl Zeit als auch Mühe. Das Erlernen einer Sprache erfordert auch den Dialog mit anderen. Die Deutsche Sommerschule bietet all das. Lesen, Schreiben, Hören und Sprechen sind alles notwendige Elemente, um Sprachkenntnisse zu erwerben. Dr. Peter Pabish, der Gründer der Sommerschule, bezeichnet die Schule als "Denkfabrik". Der Erwerb der Sprachelemente ist an sich intellektuell herausfordernd. Die Herausforderung besteht nicht nur in Grammatik und Vokabular, sondern der Lehrplan ist darauf ausgelegt, den Studenten zum Denken auf Deutsch zu bringen. Die Schule bietet ein Zusammenspiel von Sprache, Kultur, Geschichte, Philosophie und Literatur sowie die Möglichkeit, das Verständnis der Welt aus deutscher Sicht zu erweitern. Dieser Blog-Beiträge (siehe Abschnitt *Deutsche Sommerschule 2024*) über meine Erfahrungen in der Sommerschule soll einen Einblick in diesen Bildungsprozess aus der Perspektive eines Studenten geben.
+
+
+
+::: {#fig-deutschland1966 layout-ncol="2"}
+![Durlach Swimmbad 1966](images/durloch-swimbad.jpg)
+
+![Basel 1966](images/basel_1966.jpg)
+
+Deutschland als Soldat im Jahr 1966 kennenlernen
+:::
+

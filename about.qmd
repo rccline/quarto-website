@@ -1,0 +1,27 @@
+---
+title: "About"
+format: html
+editor: visual
+---
+
+*About this site*: This site has been created by Robert C. Cline, Sr. using Quarto.
+
+![](images/Rccline.jpg){width="268"}
+
+### [**Golden Triangle Land Services, Inc.**](https://goldentriangleland.com/)![](images/gtlslogo.png){width="124"}
+
+Robert C. Cline, Sr. is a *Certified Professional Landman*, has 48 years of experience managing land brokerage firms and conducting field work, including recent work on carbon sequestration projects. He specializes in project management, Leasing, Title, Due Diligence, and GIS mapping. His interests include QGIS for GIS mapping, and R programming language for analytical analysis.
+
+BA in Zoology, 1972\
+*University of St. Thomas*
+
+MA in Psychology, 1993\
+*University of Houston - Clear Lake*
+
+*Psi Chi Honor Society*
+
+Email: *rccline\@fastmail.fm*
+
+Twitter: *\@dasrotrad*
+
+[GitHub](https://github.com/rccline)

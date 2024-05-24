@@ -1,0 +1,20 @@
+---
+title: "Deutsche Sommerschule 2024"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+## *Learn German. It will be fun, they said.*
+
+# Willkommen auf meiner deutschen Webseite
+
+### 2024 deutschen Sommerschule von New Mexico: Ein persönlicher Blog.
+
+Hier finden Sie Informationen über meine Erfahrungen an der 2024 deutschen Sommerschule von New Mexico. [*die deutsche Sommerschule von New Mexico*](https://germansummerschool.unm.edu/) hinzufügen. [^1]
+
+[^1]: The German Summer School was founded in 1975 by Peter Pabisch and George F. Peters — with the support of Ernest H. Blake, A. Leslie Wilson, the University of New Mexico, and the Goethe House New York.
+
+![](images/classroom1.jpg) Deutsche Sommerschule 2023: Viel Arbeit. Viel Spaß.
