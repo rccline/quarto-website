@@ -8,16 +8,14 @@ categories: [How to]
 
 -   To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{=html}
 <!-- -->
-```
+
 -   Get started with Quarto \| Mine Çetinkaya-Rundel
 
-    -   <https://www.youtube.com/watch?v=_f3latmOhew&t=980s>
+    -   [Click Here for Mine's presentation](https://www.youtube.com/watch?v=_f3latmOhew&t=980s)
 
-```{=html}
 <!-- -->
-```
+
 -   Joshua French *YouTube* channel:
 
     -   [**Changing the color and style theme of a Quarto website**](https://www.youtube.com/watch?v=7UW4ms1JCdY&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&index=7)
