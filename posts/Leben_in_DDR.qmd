@@ -4,7 +4,11 @@ categories: [Artikel]
 date: "2023-12-26"
 ---
 
-author: "Planet Wissen"
+::: {.callout-tip}
+## *Planet Wissen* - Eine Ressource für Studierende.
+
+Suchen Sie interessante Ressourcen für Artikel auf Deutsch? Der folgende Artikel stammt von einer Website namens *Planet Wissen*\*. Diese Website wurde erstellt, um Schülern und Studenten eine interessante Ressource zum Lernen über Deutschland und die deutsche Sprache zu bieten. Schauen Sie sich die Hyperlinks zur Website von Planet Wissen an.
+:::
 
 Wichtige worter:
 

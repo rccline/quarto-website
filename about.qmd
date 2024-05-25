@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-*About this site*: This site has been created by Robert C. Cline, Sr. using Quarto.
+*About this site*: This site has been created by Robert C. Cline, Sr. using Quarto. [Click here for GitHub Repository](https://github.com/rccline/quarto-website)
 
 ![](images/Rccline.jpg){width="268"}
 
