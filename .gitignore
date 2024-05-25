@@ -8,6 +8,9 @@ styles.scss
 index.aux
 index.log
 index.tex
+posts/berlin.bib
+*.html 
+
 
 
 # Ignore directories:  
@@ -15,6 +18,8 @@ index.tex
 private/
 private_images/
 videos/
+_site/
+_index_files/ 
 
 ##%######################################################%##
 #                                                          #
